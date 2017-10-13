@@ -6,6 +6,7 @@ activistpost.com
 addictinginfo.org
 americannewsx.com
 anonews.co
+appledaily.com.tw
 associatedmediacoverage.com
 beforeitsnews.com
 beingliberal.org
@@ -16,7 +17,9 @@ bizpacreview.com
 blastingnews.com
 bluenationreview.com
 breitbart.com
+buzzorange.com
 cap-news.com
+chinatimes.com
 christwire.org
 chronicle.su
 civictribune.com
@@ -27,6 +30,7 @@ conservativeoutfitters.com
 countdowntozerotime.com
 counterpsyops.com
 creambmp.com
+cw.com.tw
 dailiulian.net
 dailybuzzlive.com
 dailycurrant.com
@@ -45,6 +49,7 @@ empireherald.com
 empirenews.com
 endingthefed.com
 enduringvision.com
+ettoday.net
 fprnradio.com
 geoengineeringwatch.org
 govtslaves.info
@@ -71,10 +76,10 @@ naturalnews.com
 nbc-news.net
 ncscooper.com
 newcenturytimes.com
-news-hound.com
 newsbiscuit.com
 newsbuzzdaily.com
 newsexaminer.net
+news-hound.com
 newslo.com
 newsmutiny.com
 newswatch28.com
